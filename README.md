@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&background=87CEFA,C8A2C8)
+
+ 
  #  ✨ Sejam Bem-Vindos, sou a Jayane Elias ✨
 
 - -> Estou cursando Desenvolvimento de Sistemas na Etec Zona Leste.
@@ -6,6 +9,7 @@
 - -> Estou aprendendo atualmente sobre Java, JavaScript e PHP.
 - -> Tenho diversos interesses, como literatura, música e arte.
   
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&background=87CEFA,C8A2C8)
 
 
 
