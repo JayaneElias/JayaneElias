@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&background=87CEFA,C8A2C8)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&background=00BFFF,C8A2C8)
+
 
  
  #  ✨ Sejam Bem-Vindos, sou a Jayane Elias ✨
