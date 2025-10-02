@@ -53,6 +53,11 @@
   <img src="https://img.shields.io/badge/XAMPP-FF7F50?style=for-the-badge&logo=xampp&logoColor=fff" title="XAMPP"/>
 </p>
 
+<h3>• 𝘽𝙖𝙣𝙘𝙤𝙨 𝙙𝙚 𝘿𝙖𝙙𝙤𝙨:</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" title="MySQL"/>
+</p>
+
 <div style= "align-items:center; justify-content:center; gap:20px;">
   
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIzZXZ2Y3BoYXVjb29tczdoZWRqYm93amh1Z29mamZ3dTN1MTR1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duLYxwdfMEUsJiRRVx/giphy.gif" width="200" />
