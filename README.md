@@ -30,6 +30,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=9370DB&text=𝑄𝚞𝚎𝚖%20𝚜𝚘𝚞:&reversal=true&textBg=false&fontColor=fff&fontSize=50" />
 </p>
 
+<h3>• 𝙅𝙖𝙮𝙖𝙣𝙚 𝙀𝙡𝙞𝙖𝙨   •  𝟭𝟳 𝙖𝙣𝙤𝙨</h3>
  
 <h3>• 𝑪𝙪𝙧𝙨𝙖𝙣𝙙𝙤 <a href="https://www.eteczonaleste.com.br" style="text-decoration:none; color:#6a0dad;">𝘿𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙞𝙢𝙚𝙣𝙩𝙤 𝙙𝙚 𝙎𝙞𝙨𝙩𝙚𝙢𝙖𝙨 – 𝙀𝙩𝙚𝙘 𝙕𝙤𝙣𝙖 𝙇𝙚𝙨𝙩𝙚</a></h3>
 
