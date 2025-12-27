@@ -10,6 +10,8 @@
 
 
 <br>
+
+<!--
 <table align="center">
   <tr>
     <th>𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</th>
@@ -24,6 +26,7 @@
     </td>
   </tr>
 </table>
+-->
 
 ## <br>
 <p align="center">
