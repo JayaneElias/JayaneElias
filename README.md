@@ -47,6 +47,11 @@
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=fff" title="Kotlin"/>
 </p>
 
+<h3>• 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=fff" title="Laravel"/>
+</p>
+
 <h3>• 𝙄𝘿𝙀𝙨 / 𝙁𝙚𝙧𝙧𝙖𝙢𝙚𝙣𝙩𝙖𝙨:</h3>
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=fff" title="VS Code"/>
