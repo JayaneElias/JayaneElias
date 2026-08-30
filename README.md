@@ -16,13 +16,15 @@
     <th>𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</th>
     <th>𝙏𝙤𝙥 𝙇𝙖𝙣𝙜𝙨</th>
   </tr>
+
   <tr>
     <td>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JayaneElias&show_icons=true&bg_color=0d1117&title_color=8a6fd1&icon_color=8a6fd1&text_color=ffffff" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=JayaneElias&show_icons=true&bg_color=0d1117&title_color=8a6fd1&icon_color=8a6fd1&text_color=ffffff" />
     </td>
-    <td>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JayaneElias&layout=compact&bg_color=0d1117&title_color=8a6fd1&text_color=ffffff" />
-    </td>
+
+  <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaneElias&layout=compact&bg_color=0d1117&title_color=8a6fd1&icon_color=8a6fd1&text_color=ffffff" />
+  </td>
   </tr>
 </table>
 
