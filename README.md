@@ -1,20 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&background=87CEFA,C8A2C8" width="100%" style="display:block; margin:0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&background=87CEFA,C8A2C8" width="100%">
 
-##
+<h1 align="center">
+  𝙅𝙖𝙮𝙖𝙣𝙚 𝙀𝙡𝙞𝙖𝙨
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=9370DB&text=𝚆𝚎𝚕𝚌𝚘𝚖𝚎!&reversal=true&textBg=false&fontColor=fff&fontSize=50" />
+  <samp>Desenvolvimento de Sistemas · Tecnologia · Aprendizado contínuo</samp>
+</p>
+<br/>
+
+<p align="center" style="font-size: 40;">
+  <strong>Estudante de Desenvolvimento de Sistemas</strong>
 </p>
 
-                                  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhsbzcxN2V6ZjZib3dwaTI2bW1jcnV3endqdTd0aXBheDlidXk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif" width="100%" style="display:block; margin:0;">
-
+<p align="center">
+  Em formação na área de tecnologia, com interesse em aprendizado contínuo,
+  desenvolvimento profissional e nas diferentes possibilidades do setor.
+</p>
 
 <br>
 
 <table align="center">
   <tr>
-    <th>𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</th>
-    <th>𝙏𝙤𝙥 𝙇𝙖𝙣𝙜𝙨</th>
+    <th>GitHub Stats</th>
+    <th>Top Languages</th>
   </tr>
 
   <tr>
@@ -22,26 +31,37 @@
       <img src="https://github-readme-stats-fast.vercel.app/api?username=JayaneElias&show_icons=true&bg_color=0d1117&title_color=8a6fd1&icon_color=8a6fd1&text_color=ffffff" />
     </td>
 
-  <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaneElias&layout=compact&bg_color=0d1117&title_color=8a6fd1&icon_color=8a6fd1&text_color=ffffff" />
-  </td>
+   <td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaneElias&layout=compact&bg_color=0d1117&title_color=8a6fd1&text_color=ffffff&hide_border=true" />
+</td>
+    
   </tr>
 </table>
 
-## <br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=9370DB&text=𝑄𝚞𝚎𝚖%20𝚜𝚘𝚞:&reversal=true&textBg=false&fontColor=fff&fontSize=50" />
+<br>
+
+<h2>Sobre mim</h2>
+
+<p>
+  <strong>Jayane Elias</strong> · 17 anos
 </p>
 
-<h3>• 𝙅𝙖𝙮𝙖𝙣𝙚 𝙀𝙡𝙞𝙖𝙨   •  𝟭𝟳 𝙖𝙣𝙤𝙨</h3>
- 
-<h3>• 𝑪𝙪𝙧𝙨𝙖𝙣𝙙𝙤 <a href="https://www.eteczonaleste.com.br" style="text-decoration:none; color:#6a0dad;">𝘿𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙞𝙢𝙚𝙣𝙩𝙤 𝙙𝙚 𝙎𝙞𝙨𝙩𝙚𝙢𝙖𝙨 – 𝙀𝙩𝙚𝙘 𝙕𝙤𝙣𝙖 𝙇𝙚𝙨𝙩𝙚</a></h3>
+<p>
+  Estudante de 
+  <a href="https://www.eteczonaleste.com.br">Desenvolvimento de Sistemas – Etec Zona Leste</a>.
+</p>
 
-<h3>• 𝙁𝙤𝙘𝙤 𝙚𝙢 𝙖𝙥𝙧𝙚𝙣𝙙𝙚𝙧 𝙚 𝙢𝙚 𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙚𝙧 𝙥𝙧𝙤𝙛𝙞𝙨𝙨𝙞𝙤𝙣𝙖𝙡𝙢𝙚𝙣𝙩𝙚 𝙖 𝙡𝙤𝙣𝙜𝙤 𝙙𝙤 𝙘𝙪𝙧𝙨𝙤</h3>
+<p>
+  Meu foco é aprender continuamente e me desenvolver profissionalmente ao longo do curso,
+  explorando as diferentes possibilidades e oportunidades presentes na área de tecnologia.
+</p>
 
-<h3>• 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙨𝙚 𝙥𝙤𝙧 𝙚𝙨𝙨𝙖 𝙖́𝙧𝙚𝙖 𝙫𝙖𝙨𝙩𝙖, 𝙘𝙝𝙚𝙞𝙖 𝙙𝙚 𝙤𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙙𝙖𝙙𝙚𝙨</h3>
+<br>
 
-<h3>• 𝙀𝙨𝙩𝙪𝙙𝙤𝙨 𝙖𝙩𝙪𝙖𝙞𝙨:</h3>
+<h2>Conhecimentos em desenvolvimento</h2>
+
+<h3>Linguagens</h3>
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-fff200?style=for-the-badge&logo=javascript&logoColor=000" title="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=fff" title="PHP"/>
@@ -49,12 +69,14 @@
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=fff" title="Kotlin"/>
 </p>
 
-<h3>• 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠:</h3>
+<h3>Frameworks</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=fff" title="Laravel"/>
 </p>
 
-<h3>• 𝙄𝘿𝙀𝙨 / 𝙁𝙚𝙧𝙧𝙖𝙢𝙚𝙣𝙩𝙖𝙨:</h3>
+<h3>Ferramentas e IDEs</h3>
+
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=fff" title="VS Code"/>
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=fff" title="Figma"/>
@@ -62,19 +84,20 @@
   <img src="https://img.shields.io/badge/XAMPP-FF7F50?style=for-the-badge&logo=xampp&logoColor=fff" title="XAMPP"/>
 </p>
 
-<h3>• 𝘽𝙖𝙣𝙘𝙤𝙨 𝙙𝙚 𝘿𝙖𝙙𝙤𝙨:</h3>
+<h3>Banco de dados</h3>
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" title="MySQL"/>
 </p>
 
-<div style= "align-items:center; justify-content:center; gap:20px;">
-  
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIzZXZ2Y3BoYXVjb29tczdoZWRqYm93amh1Z29mamZ3dTN1MTR1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duLYxwdfMEUsJiRRVx/giphy.gif" width="200" />
-  <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif" width="500" />
-</div>
+<br>
 
-## 
+<h2 align="center" >Objetivos</h2>
 
+<p align="center">
+  <em>Aprender • Desenvolver • Explorar • Evoluir</em>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&background=87CEFA,C8A2C8" width="100%" style="display:block; margin:0;">
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&background=87CEFA,C8A2C8" width="100%">
